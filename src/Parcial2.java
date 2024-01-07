@@ -45,7 +45,7 @@ public class Parcial2 {
 	    }
 
 	    public static void main(String[] args) {
-	        String path = "C:\\programasjavaya\\ProyectoParcial2\\Texto.txt";
+	        String path = "Texto.txt";
 	        ArrayList<String> lineas = leerArchivo(path);
 
 	        if (!lineas.isEmpty()) {
